@@ -42,7 +42,7 @@ $$Y(X) = \frac{7360.80}{1 + e^{-0.0096(X - 313.80)}}$$
 
 ## 📈 Visualisasi Model
 
-![Logistic Fitting Graph](link-gambar-grafik-anda.png)
+![Logistic Fitting Graph](./image.png)
 
 > *Gambar: Kurva Sigmoid (Garis Oranye) menunjukkan fitting yang sangat sesuai dengan sebaran data aktual (Titik Kuning).*
 
